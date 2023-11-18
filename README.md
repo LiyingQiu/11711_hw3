@@ -1,5 +1,8 @@
 # Semeval 2020, Task 11
 
+We replicate the original code from https://github.com/aschern/semeval2020_task11/blob/master/README.md
+
+
 ## Overview
 This repository provides code for the SemEval-2020 Task 11 competition (Detection of Propaganda Techniques in News Articles).
 
